@@ -2,7 +2,7 @@
 <h3 align="center">Engineering Student</h3>
 
 <p align="center">
-  <img src="https://media.tenor.com/Li7HobCHqa0AAAAi/trial.gif" alt="Developer Image" width="200" height="200">
+  <img src="https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="Developer Image" width="200" height="200">
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajkumar-1823&label=Profile%20views&color=0e75b6&style=flat" alt="rajkumar-1823" /> </p>
