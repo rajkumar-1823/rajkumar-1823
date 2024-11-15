@@ -11,11 +11,10 @@
 
 <p align="left"> <a href="https://twitter.com/@rajkuma57416023" target="blank"><img src="https://img.shields.io/twitter/follow/@rajkuma57416023?logo=twitter&style=for-the-badge" alt="@rajkuma57416023" /></a> </p>
 
-- 🔭 I’m currently working on **Helmet Detection**
-- 🌱 I’m currently learning **Python**
-- 🤝 I’m looking for help with **AI**
+- 🔭 I’m currently working on **MERN Stack Application**
+- 🌱 I’m currently learning **MERN Stack**
 - 💬 Ask me about **Java**
-- 📫 How to reach me **raj1823mechons@gmail.com**
+- 📫 How to reach me **rajkumarcse18@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
