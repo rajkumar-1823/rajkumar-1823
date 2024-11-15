@@ -34,9 +34,23 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" alt="Java" width="40" height="40"/>
   </a>
+
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000" alt="C++" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Python" width="40" height="40"/>
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt="Javascript" width="40" height="40"/>
+  </a>
+
+  
   <!-- Add other languages and tools icons here -->
 </p>
 
